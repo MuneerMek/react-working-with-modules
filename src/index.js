@@ -4,6 +4,9 @@ import ReactDOM from "react-dom";
 //import the named exports from the helpers module
 
 import "./styles.css";
+import greeting from "./greeting";
+import { subHeader } from "./helpers";
+import { organize } from "./helpers";
 
 function App() {
   return (
